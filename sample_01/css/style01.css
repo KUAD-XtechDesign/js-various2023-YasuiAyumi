@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&display=swap');
 
 html,body,#contents,.wrapper,#back{
   background-color: #001219;
@@ -40,7 +41,8 @@ footer{
 }
 
 header h1{
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Aoboshi One', serif;
 }
 
 header ul{
@@ -97,11 +99,15 @@ header ul li{
 
 #food{
   width: 50%;
-  bottom: 10%;
+  bottom: 0%;
   margin-left: -25%;
-  left: 60%;
+  left: 50%;
   position: absolute;
   opacity: 0;
+}
+
+#food img{
+  width: 100%;
 }
 
 
