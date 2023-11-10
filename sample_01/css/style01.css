@@ -106,10 +106,14 @@ header ul li{
   opacity: 0;
 }
 
+<<<<<<< Updated upstream
 #food img{
   width: 100%;
 }
 
+=======
+#food image{}
+>>>>>>> Stashed changes
 
 #food.anime {
   /* cssライブラリanimate.cssを利用 */
